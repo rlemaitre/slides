@@ -1,0 +1,21 @@
+{
+  "name": "slides",
+  "version": "0.1.0-SNAPSHOT",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@scala-js/vite-plugin-scalajs": "^1.0.0",
+    "swiper": "^11.1.4",
+    "typescript": "^5.5.2",
+    "vite": "^4.1.0"
+  },
+  "devDependencies": {
+    "@raquo/vite-plugin-import-side-effect": "^0.2.0"
+  }
+}
